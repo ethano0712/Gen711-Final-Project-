@@ -1,9 +1,9 @@
 # Gen711-Final-Project-
-Ethan O'Keefe final project for Gen711-Genomics and Bioinformatics
+Ethan O'Keefe Final Project for Gen711-Genomics and Bioinformatics
 
 This project is meant to make students work with fastq sequencing files and use some kind of bioinformatic analysis to create reportable data that can be presented to the class. 
 
-My Project 
+My Project
 
 _Identifying Genetic Variance Linkage to Increased Alcohol Consumption in Wistar rats_
 
