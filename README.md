@@ -14,6 +14,6 @@ I do drug addiction research here at UNH with Dr. Charntikov in the psychology d
 
 The first step in this project was to obtain a Wistar rat genome, and a reference brown rat genome. The Brown rat was chosen for its neutral (unselected for) propensity to consume, meaning it should do well as a reference to illuminate any signifigant variation in the Wistar genome. The most up to date widely used ret reference genome, the BN7.2 genome, was assembled from Brown rat sequences, making it an easily accesable and thorough 
 
-<img src="/Images/img.jpg" alt="Alt text" title="Optional title">
+<img src="/Images/Project Overview fin.png" alt="Alt text" title="Optional title">
 
 
