@@ -7,9 +7,13 @@ My Project
 
 Identifying Genetic Variance Linkage to Increased Alcohol Consumption in Wistar rats
 
-I do drug addiction research here at UNH. In these investigations we often use animal models such as rats to measure behavioral economic demand and quantify addictive propensity. Our current study is attempting to identify individuals susceptable to alcohol abuse. Our study is using Wistar rats as they are bred with a higher propensity to consume alcohol, making it easier to habituate them to the generally unenjoyable taste of alcohol. Our study is focusing on variation amongst certain behaviors and neuronal activation. In an attempt to understand the inbred increase in consumption propensity, I have decided to identify variance in genes previously linked to alchohol abuse as a means of correlating the phenotypical consumption to a genotypic factor that could be analyzed further in future studies. 
+I do drug addiction research here at UNH with Dr. Charntikov in the psychology department. In these investigations we often use animal models such as rats to measure behavioral economic demand and quantify addictive propensity. Our current study is attempting to identify individuals susceptable to alcohol abuse. Our study is using Wistar rats as they are bred with a higher propensity to consume alcohol, making it easier to habituate them to the generally unenjoyable taste of ethanol. Our study is focusing on variation amongst certain behaviors and neuronal activation. In an attempt to understand the Wistar's inbred increase in consumption propensity, I have decided to identify variance within it's genes previously linked to alchohol abuse as a means of correlating the phenotypical consumption to genotypic factors that could be analyzed further in future studies. 
+
+**Project Pipeline**
 
 
-I do drug addiction research at UNH. In these investigations we often use animal models such as rats to measure behavioral economic demand and quantify addictive propensity. Our current study is attempting to identify individuals susceptable to alcohol abuse. My project will involve gathering fastq files from rats bred with higher and lower alchohl prefernce. I will examine the interaction of genes previously associated with addiction, alcohol abuse, and reinstatement both within and against preference groups. 
+The first step in this project was to obtain a Wistar rat genome, and a reference brown rat genome. The Brown rat was chosen for its neutral (unselected for) propensity to consume, meaning it should do well as a reference to illuminate any signifigant variation in the Wistar genome. The most up to date widely used ret reference genome, the BN7.2 genome, was assembled from Brown rat sequences, making it an easily accesable and thorough 
+
+<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
 
 
