@@ -11,5 +11,5 @@ I do drug addiction research here at UNH with Dr. Charntikov in the psychology d
 
 **Project Pipeline**
 
-<img src="/Images/Project Overview fin.png" alt="Project overview image" title="Project Pipeline">
+<img src="/Project Overview fin.png" alt="Project overview image" title="Project Pipeline">
 
